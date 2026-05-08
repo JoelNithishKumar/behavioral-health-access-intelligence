@@ -178,26 +178,48 @@ The dashboard can still run without an OpenAI API key. The AI copilot is optiona
 
 ---
 
-## Screenshots
+## Project Screenshots
 
-Add screenshots to:
+Add your screenshots to `artifacts/screenshots/` using the filenames below.
 
-```text
-artifacts/screenshots/
-```
+### Executive Overview
 
-Recommended screenshots:
+![Executive Overview](artifacts/screenshots/01_executive_overview.png)
 
+### Referral Funnel
 
-01_executive_overview.png
-02_referral_funnel.png
-03_clinic_performance.png
-04_zip_access_friction.png
-05_no_show_risk.png
-06_data_quality_monitor.png
-07_ai_copilot.png
-08_ask_the_data.png
-09_settings_scenario_lab.png
+![Referral Funnel](artifacts/screenshots/02_referral_funnel.png)
+
+### Clinic Performance
+
+![Clinic Performance](artifacts/screenshots/03_clinic_performance.png)
+
+### ZIP Access Friction
+
+![ZIP Access Friction](artifacts/screenshots/04_zip_access_friction.png)
+
+### No-Show Risk
+
+![No-Show Risk](artifacts/screenshots/05_no_show_risk.png)
+
+### Data Quality Monitor
+
+![Data Quality Monitor](artifacts/screenshots/06_data_quality_monitor.png)
+
+### AI Copilot
+
+![AI Copilot](artifacts/screenshots/07_ai_copilot.png)
+
+### Ask the Data
+
+![Ask the Data](artifacts/screenshots/08_ask_the_data.png)
+
+### Settings & Scenario Lab
+
+![Settings Scenario Lab](artifacts/screenshots/09_settings_scenario_lab.png)
+
+---
+
 
 
 ---
