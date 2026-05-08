@@ -1,0 +1,26 @@
+provider_id,provider_name,clinic_id,department_id,provider_type,weekly_capacity_slots,active_flag
+PROV001,Provider 001,CLINIC006,DEPT004,Social Worker,28,True
+PROV002,Provider 002,CLINIC004,DEPT001,Therapist,20,True
+PROV003,Provider 003,CLINIC007,DEPT005,Social Worker,30,True
+PROV004,Provider 004,CLINIC003,DEPT001,Therapist,25,True
+PROV005,Provider 005,CLINIC005,DEPT001,Psychologist,21,True
+PROV006,Provider 006,CLINIC001,DEPT005,Social Worker,29,True
+PROV007,Provider 007,CLINIC004,DEPT005,Therapist,28,True
+PROV008,Provider 008,CLINIC003,DEPT001,Psychiatrist,32,True
+PROV009,Provider 009,CLINIC006,DEPT001,Psychiatrist,22,True
+PROV010,Provider 010,CLINIC008,DEPT001,Social Worker,24,True
+PROV011,Provider 011,CLINIC004,DEPT004,Psychiatrist,35,True
+PROV012,Provider 012,CLINIC005,DEPT003,Psychologist,28,True
+PROV013,Provider 013,CLINIC007,DEPT005,Therapist,33,True
+PROV014,Provider 014,CLINIC003,DEPT004,Social Worker,35,True
+PROV015,Provider 015,CLINIC002,DEPT004,Therapist,23,True
+PROV016,Provider 016,CLINIC003,DEPT001,Psychiatrist,35,True
+PROV017,Provider 017,CLINIC006,DEPT003,Social Worker,35,True
+PROV018,Provider 018,CLINIC006,DEPT005,Psychiatrist,30,True
+PROV019,Provider 019,CLINIC007,DEPT004,Therapist,32,True
+PROV020,Provider 020,CLINIC003,DEPT005,Therapist,24,True
+PROV021,Provider 021,CLINIC005,DEPT004,Psychologist,27,True
+PROV022,Provider 022,CLINIC007,DEPT005,Social Worker,26,True
+PROV023,Provider 023,CLINIC003,DEPT001,Therapist,26,True
+PROV024,Provider 024,CLINIC004,DEPT001,Therapist,35,True
+PROV025,Provider 025,CLINIC006,DEPT003,Therapist,22,True

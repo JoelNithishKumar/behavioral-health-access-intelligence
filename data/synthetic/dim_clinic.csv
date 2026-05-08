@@ -1,0 +1,9 @@
+clinic_id,clinic_name,clinic_group,city,weekly_intake_slot_capacity
+CLINIC001,North Behavioral Health Center,North,Chicago,80
+CLINIC002,Lakeview Integrated Care,North,Chicago,65
+CLINIC003,Central Psychiatry Clinic,Central,Chicago,95
+CLINIC004,Downtown Access Clinic,Central,Chicago,75
+CLINIC005,Westside Behavioral Health,West,Chicago,60
+CLINIC006,Austin Community Clinic,West,Chicago,55
+CLINIC007,South Behavioral Health Center,South,Chicago,70
+CLINIC008,Hyde Park Integrated Care,South,Chicago,85

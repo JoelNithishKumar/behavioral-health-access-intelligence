@@ -1,0 +1,11 @@
+department_id,department_name,service_line
+DEPT001,Behavioral Health,Behavioral Health
+DEPT002,Primary Care,Medical
+DEPT003,Psychiatry,Behavioral Health
+DEPT004,Psychology,Behavioral Health
+DEPT005,Social Work,Behavioral Health
+DEPT006,Internal Medicine,Medical
+DEPT007,Pediatrics,Medical
+DEPT008,Women’s Health,Medical
+DEPT009,Emergency Medicine,Medical
+DEPT010,Care Navigation,Medical
