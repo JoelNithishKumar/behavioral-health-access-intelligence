@@ -188,7 +188,7 @@ artifacts/screenshots/
 
 Recommended screenshots:
 
-```text
+
 01_executive_overview.png
 02_referral_funnel.png
 03_clinic_performance.png
@@ -198,7 +198,7 @@ Recommended screenshots:
 07_ai_copilot.png
 08_ask_the_data.png
 09_settings_scenario_lab.png
-```
+
 
 ---
 
